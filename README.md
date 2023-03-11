@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 <a href="https://divyaguo.github.io/"><img src="https://img.shields.io/static/v1?label=Homepage&message=JingwenGuo&color=cyan"/></a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=DivyaGuo&theme=buefy&count_private=true&show_icons=true&hide_title=true&&hide_border=true&layout=compact&hide=prs" height="100"> 
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaGuo&theme=buefy&hide_border=true&layout=compact&langs_count=4" height="100">-->
+<!--<img src="https://github-readme-stats.vercel.app/api?username=DivyaGuo&theme=buefy&count_private=true&show_icons=true&hide_title=true&&hide_border=true&layout=compact&hide=prs" height="100"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaGuo&theme=buefy&hide_border=true&layout=compact&langs_count=4" height="100">-->
 
 
 <!--![](https://komarev.com/ghpvc/?username=DivyaGuo&label=VISITORS)-->
