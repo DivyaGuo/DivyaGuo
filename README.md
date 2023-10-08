@@ -6,10 +6,10 @@
 Here are some ideas to get you started:
 -->
 - 😄 I'm Jingwen Guo (郭静文).
-- 🔭 I’m currently a graduate student in the School of Eltronic and Computer Engineering, Peking University (PKU).
-- 🌱 I received the B.S. degree in Computer Science and Technology from Sochow University in 2021.<!-- - 👯 I was recommended for admission to the PKU with excellent grades.-->
-- ⚡ My current research interests include Computer Vision, Action Recognition, Self-supervised Learning, and Federated Laerning.
-- 💬 I worked on projects in field of Knowlodge Graph, Natural Language Processing, and Reinforcement Learning before.
+- 🔭 I’m currently a graduate student in the School of Electronic and Computer Engineering, Peking University (PKU).
+- 🌱 I received the B.S. degree in Computer Science and Technology from Soochow University in 2021.<!-- - 👯 I was recommended for admission to the PKU with excellent grades.-->
+- ⚡ My current research interests include Computer Vision, Action Recognition, Self-supervised Learning, and Federated Learning.
+- 💬 I worked on projects in field of Knowledge Graph, Natural Language Processing, and Reinforcement Learning before.
 - 📫 You can reach me: jingwenguo@stu.pku.edu.cn
 
 
